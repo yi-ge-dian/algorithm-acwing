@@ -1,3 +1,4 @@
+
 cmake_minimum_required(VERSION 3.27)
 project(leetcode)
 
@@ -8,4 +9,5 @@ add_executable(leetcode
         editor/cn/[15]三数之和.cpp
         editor/cn/[21]合并两个有序链表.cpp
         editor/cn/[104]二叉树的最大深度.cpp
+        editor/cn/[86]分隔链表.cpp
 )
