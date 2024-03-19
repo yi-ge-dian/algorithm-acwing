@@ -12,4 +12,5 @@ add_executable(leetcode
         editor/cn/[86]分隔链表.cpp
         "editor/cn/[23]合并 K 个升序链表.cpp"
         "editor/cn/[19]删除链表的倒数第 N 个结点.cpp"
+        editor/cn/[876]链表的中间结点.cpp
 )
