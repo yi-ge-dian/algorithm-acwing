@@ -15,4 +15,5 @@ add_executable(leetcode
         editor/cn/[876]链表的中间结点.cpp
         "editor/cn/[142]环形链表 II.cpp"
         editor/cn/[160]相交链表.cpp
+        editor/cn/[26]删除有序数组中的重复项.cpp
 )
