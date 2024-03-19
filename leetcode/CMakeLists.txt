@@ -19,4 +19,5 @@ add_executable(leetcode
         editor/cn/[83]删除排序链表中的重复元素.cpp
         editor/cn/[27]移除元素.cpp
         editor/cn/[283]移动零.cpp
+        "editor/cn/[167]两数之和 II - 输入有序数组.cpp"
 )
