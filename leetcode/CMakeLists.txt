@@ -22,4 +22,5 @@ add_executable(leetcode
         "editor/cn/[167]两数之和 II - 输入有序数组.cpp"
         editor/cn/[344]反转字符串.cpp
         editor/cn/[5]最长回文子串.cpp
+        "editor/cn/[303]区域和检索 - 数组不可变.cpp"
 )
