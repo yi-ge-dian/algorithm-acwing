@@ -28,4 +28,5 @@ add_executable(leetcode
         "editor/cn/[50]Pow(x, n).cpp"
         editor/cn/[42]接雨水.cpp
         editor/cn/[144]二叉树的前序遍历.cpp
+        editor/cn/[94]二叉树的中序遍历.cpp
 )
