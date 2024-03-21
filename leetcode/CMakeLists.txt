@@ -31,4 +31,5 @@ add_executable(leetcode
         editor/cn/[94]二叉树的中序遍历.cpp
         editor/cn/[145]二叉树的后序遍历.cpp
         editor/cn/[543]二叉树的直径.cpp
+        editor/cn/[102]二叉树的层序遍历.cpp
 )
