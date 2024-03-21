@@ -26,4 +26,5 @@ add_executable(leetcode
         "editor/cn/[304]二维区域和检索 - 矩阵不可变.cpp"
         "editor/cn/[146]LRU 缓存.cpp"
         "editor/cn/[50]Pow(x, n).cpp"
+        editor/cn/[42]接雨水.cpp
 )
