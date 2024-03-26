@@ -35,4 +35,5 @@ add_executable(leetcode
         editor/cn/[108]将有序数组转换为二叉搜索树.cpp
         editor/cn/[111]二叉树的最小深度.cpp
         editor/cn/[155]最小栈.cpp
+        "editor/cn/[8]字符串转换整数 (atoi).cpp"
 )
