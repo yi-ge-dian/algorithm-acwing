@@ -36,4 +36,7 @@ add_executable(leetcode
         editor/cn/[111]二叉树的最小深度.cpp
         editor/cn/[155]最小栈.cpp
         "editor/cn/[8]字符串转换整数 (atoi).cpp"
+        editor/cn/[49]字母异位词分组.cpp
+        editor/cn/[128]最长连续序列.cpp
+        editor/cn/[11]盛最多水的容器.cpp
 )
